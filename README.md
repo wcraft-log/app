@@ -21,7 +21,7 @@ Let's rename \*our-new-project\* to \*<x>xx</x>\*.
 Here is a simple flow chart:
 
 ```mermaid
-graph TD<x>A;
+graph TD"<x>A;
     <x>A-->B;
     <x>A-->C;
     B-->D;
