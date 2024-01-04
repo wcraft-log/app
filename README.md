@@ -16,4 +16,4 @@ aa
 
 Let's rename \*our-new-project\* to \*<x>xx</x>\*.
 
-[GitHub Pages](https://pages.github.com/)
+[GitHub Pages](javascript://aa)
