@@ -6,5 +6,5 @@ aa
 <`</code><a></a>`>
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <picture>
-  <source srcset="https://svgsilh.com/svg/1801287.svg">
+  <object srcset="https://svgsilh.com/svg/1801287.svg">
 </picture>
